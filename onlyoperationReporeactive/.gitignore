@@ -1,7 +1,6 @@
 ######################
 # Project Specific
 ######################
-/target/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
 /src/test/gatling/lib/
@@ -122,8 +121,6 @@ Desktop.ini
 # Others
 ######################
 *.class
-*.*~
-*~
 .merge_file*
 
 ######################
