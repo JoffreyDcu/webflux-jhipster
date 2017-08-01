@@ -3,6 +3,7 @@
 ######################
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
+/src/test/gatling/lib/
 
 ######################
 # Node
@@ -68,6 +69,7 @@ classes/
 # Maven
 ######################
 /log/
+
 
 ######################
 # Gradle
