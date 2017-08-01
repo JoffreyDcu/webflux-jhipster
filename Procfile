@@ -1,1 +1,1 @@
-web: ./mvnw -Pprod
+web: ./mvnw
