@@ -26,8 +26,8 @@ spring:
         serialization.indent_output: true
     data:
         mongodb:
-            uri: mongodb://localhost:27017
-            database: onlyOperationReporeactive
+            uri: mongodb://root:root@ds163060.mlab.com:63060/heroku_4c487h89
+            database: heroku_4c487h89
     mail:
         host: localhost
         port: 25
